@@ -1,0 +1,48 @@
+hypernet_custom_city_dict =[
+    {'name': 'Abu Dhalouf'},
+    {'name': 'Abu Hamour'},
+    {'name': 'Doha'},                 
+    {'name': 'Abu az Zuluf'},
+    {'name': 'Abu Thaylah'},
+    {'name': 'Ad Dawhah al Jadidah'},
+    {'name': 'Al `Arish'},
+    {'name': 'Al Bida` ash Sharqiyah'},
+    {'name': 'Al Ghanim'},
+    {'name': 'Al Ghuwariyah'},
+    {'name': 'Al Hilal al Gharbiyah'},
+    {'name': 'Al Hilal ash Sharqiyah'},
+    {'name': 'Al Hitmi'},
+    {'name': 'Al Jasrah'},
+    {'name': 'Al Jumaliyah'},
+    {'name': 'Al Ka`biyah'},
+    {'name': 'Al Khalifat'},
+    {'name': 'Al Khor'},
+    {'name': 'Al Khawr'},
+    {'name': 'Al Khuwayr'},
+    {'name': 'Al Mafjar'},
+    {'name': 'Al Qa`abiyah'},
+    {'name': 'Al Wakrah, second city'},
+    {'name': 'Al `Adhbah'},
+    {'name': 'An Najmah'},
+    {'name': 'Ar Rakiyat'},
+    {'name': 'Al Rayyan'},
+    {'name': 'Ar Ru`ays'},
+    {'name': 'As Salatah'},
+    {'name': 'As Salatah al Jadidah'},
+    {'name': 'As Sani`'},
+    {'name': 'As Sawq'},
+    {'name': 'Ath Thaqab'},
+    {'name': 'Blaré'},
+    {'name': 'Dukhan'},
+    {'name': 'Ras Laffan Industrial City'},
+    {'name': 'Umm Bab'},
+    {'name': 'Umm Sa`id'},
+    {'name': 'Umm Salal Ali'},
+    {'name': 'Umm Salal Mohammed'},
+    ]
+
+
+
+    
+    
+    
